@@ -163,4 +163,4 @@ ggplot(avg_temp_data_village, aes(x = avg_temp, y = infant_death)) +
   labs(title = 'Figure 4: Loess Regression between average temperature\nand average infant mortality rate in each village of Nigeria',
        x = 'Average Temperature', y = 'Average Infant Mortality Rate')
 
-# That's it! Good bye!
+# That's it! Bye!
