@@ -1,4 +1,4 @@
-# Stanford_RA
+# Stanford RA
 This repository contains the tasks for the coding assessment of Stanford's process
 
 *Codes*
