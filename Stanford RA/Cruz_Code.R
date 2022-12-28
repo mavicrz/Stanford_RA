@@ -1,5 +1,5 @@
 # Stanford - coding assessment -------------------------------------------------
-# This code solutes the tasks from Stanford's RA programming assessment 
+# This code creates the tasks from Stanford's RA programming assessment 
 
 # 0. Settings ------------------------------------------------------------------
 
