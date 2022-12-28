@@ -11,4 +11,4 @@ This repository contains the tasks for the coding assessment of Stanford's proce
 - wc2.1_10m_tavg is the climate data downloaded from https://www.worldclim.org/data/worldclim21.html# - it was too big for GitHub
 
 *Output files*
-- MotherData_reshaped_Cruz is the reshaped data from the task - it was too big for GitHub
+- MotherData_reshaped_Cruz.csv is the reshaped data from the task - it was too big for GitHub
