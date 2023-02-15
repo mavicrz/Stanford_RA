@@ -121,7 +121,7 @@ ggplot() +
   labs(color  = 'Infant Mortality Rate')
 
 # 4. Average Temperature Analysis (8th to 9th task) ------------------------------------------------------------------------------
-# Here I make the file that was TIFF into a st object
+# Here I make the file that was TIF into a st object
 avg_temp_data_shapefile  <-  avg_temp_data  %>% 
   sf::st_intersection(shapefile)
 
